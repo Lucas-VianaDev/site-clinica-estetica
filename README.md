@@ -2,6 +2,8 @@
 
 Projeto demonstrativo de uma página institucional para clínica de estética facial e corporal.
 
+https://lucas-vianadev.github.io/site-clinica-estetica/
+
 ## O que este projeto mostra
 
 - Hero com proposta clara
